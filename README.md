@@ -1,6 +1,7 @@
 # RBGE-vanderbot-wikidata
 
-This script is a slightly edited version of the VanderBot script found here vanderbi.lt/vanderbot. 
+This script is a slightly edited version of the VanderBot script found here [vanderbi.lt/vanderbot](https://github.com/HeardLibrary/linked-data/blob/master/vanderbot/README.md). 
+
 To use the script I'd recommend following the procedures outlined in that article.
 
 The script works in exactly the same way as VanderBot in creating or updating files to Wikidata. The alterations made have just changed how aliases function. 
