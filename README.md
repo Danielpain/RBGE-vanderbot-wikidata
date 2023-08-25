@@ -11,14 +11,14 @@ Beneath this heading, aliases for an item follow in the following format:
 
 ["aliases1", "aliases2", "aliases3"] 
 
-## [Limitations]
+## Limitations
 
 Through the script aliases will only update if there are more aliases being inputted than already exist in a wikidata profile, otherwise the present alias list will not update. As a result,
 this tool is more useful in Wikidata entry creation rather than editing at this moment. 
 
 The other limitation is that aliases can only be inputted in one language currently. 
 
-## [Use]
+## Use
 
 This piece of code has been used to upload and update entries relating to RBGE collections, including Expeditions and authority/agent files from Herbarium, living collections and library 
 collection management systems. 
