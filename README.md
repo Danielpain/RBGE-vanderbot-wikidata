@@ -2,7 +2,7 @@
 
 This script is a slightly edited version of the VanderBot script found here [vanderbi.lt/vanderbot](https://github.com/HeardLibrary/linked-data/blob/master/vanderbot/README.md). 
 
-To use the script I'd recommend following the procedures outlined in that article.
+To use the script I'd recommend following the procedures outlined in that article. Useful tutorials can also be found [here](http://baskauf.blogspot.com/2021/03/writing-your-own-data-to-wikidata-using.html), for uploading data to Wikidata using this script. 
 
 The script works in exactly the same way as VanderBot in creating or updating files to Wikidata. The alterations made have just changed how aliases function. 
 With this script aliases can be uploaded onto Wikidata through specific formating under a labeled heading of 'aliases'. Beneath this, aliases for an item follow in the following format:
